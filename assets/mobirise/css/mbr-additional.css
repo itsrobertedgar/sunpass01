@@ -2073,56 +2073,6 @@ body {
 .cid-qTmk6U63TG .media-container-row {
   flex-wrap: wrap;
 }
-.cid-qU9pEHowhE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qU9pEHowhE .mbr-text {
-  color: #767676;
-}
-.cid-qU9pEHowhE .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qU9pEHowhE .title {
-  position: relative;
-  display: flex;
-  align-items: center;
-}
-.cid-qU9pEHowhE .title .num {
-  flex-shrink: 0;
-  position: absolute;
-  z-index: 0;
-  font-size: 4rem;
-  width: 100%;
-}
-.cid-qU9pEHowhE .title .card-title {
-  z-index: 1;
-  width: 100%;
-}
-.cid-qU9pEHowhE .card-text {
-  margin-top: 2rem;
-}
-.cid-qU9pEHowhE .card-box {
-  margin-bottom: 1rem;
-}
-.cid-qU9pEHowhE .num {
-  color: #cccccc;
-}
-@media (max-width: 767px) {
-  .cid-qU9pEHowhE .num,
-  .cid-qU9pEHowhE .card-title,
-  .cid-qU9pEHowhE .mbr-text,
-  .cid-qU9pEHowhE .mbr-title,
-  .cid-qU9pEHowhE .mbr-section-subtitle,
-  .cid-qU9pEHowhE .mbr-section-btn,
-  .cid-qU9pEHowhE .mbr-section-title {
-    text-align: center !important;
-  }
-  .cid-qU9pEHowhE .content-column {
-    margin-bottom: 2rem;
-  }
-}
 .cid-qU7uiFbfM5 {
   padding-top: 165px;
   padding-bottom: 90px;
@@ -3591,7 +3541,7 @@ body {
   text-align: center;
 }
 .cid-qU7SvfqkNh {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/drones-1698x892.jpg");
 }
@@ -3721,7 +3671,7 @@ body {
 .cid-qU7SvdxB9N {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #0947b3;
+  background-color: #232323;
 }
 .cid-qU7SvdxB9N .mbr-text,
 .cid-qU7SvdxB9N .mbr-section-subtitle {
@@ -3756,7 +3706,7 @@ body {
 .cid-qU7SviuZ8C {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/blue-tunel-710x240.jpg");
+  background-color: #ffffff;
 }
 .cid-qU7SviuZ8C *:focus {
   outline: none;
