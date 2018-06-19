@@ -1488,6 +1488,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
+  background: none;
 }
 .cid-qTmk6N99fd .navbar.opened {
   transition: all .3s;
@@ -2367,6 +2368,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
+  background: none;
 }
 .cid-qU7ttVlwej .navbar.opened {
   transition: all .3s;
@@ -2801,6 +2803,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
+  background: none;
 }
 .cid-qU7tlqSsuW .navbar.opened {
   transition: all .3s;
@@ -3247,6 +3250,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
+  background: none;
 }
 .cid-qU7Sv9Lhji .navbar.opened {
   transition: all .3s;
@@ -3506,10 +3510,10 @@ body {
 .cid-qU7SvcuQ2d {
   padding-top: 120px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/sunpass-bg-1200x600.jpg");
+  background-image: url("../../../assets/images/drones-1698x892.jpg");
 }
 .cid-qU7SvcuQ2d .mbr-overlay {
-  background: #fdce2d;
+  background: #232323;
 }
 .cid-qU7SvcuQ2d .mbr-section-title {
   letter-spacing: -1px;
@@ -3520,13 +3524,13 @@ body {
   color: #232323;
 }
 .cid-qU7SvcuQ2d .mbr-section-title B {
-  color: #313941;
+  color: #fdce2d;
 }
 .cid-qU7SvcuQ2d .mbr-section-subtitle B {
   color: #313941;
 }
 .cid-qU7SvcuQ2d .mbr-section-title SPAN {
-  color: #313941;
+  color: #efefef;
 }
 .cid-qU7SvcuQ2d .mbr-text,
 .cid-qU7SvcuQ2d .mbr-section-btn {
@@ -3535,7 +3539,7 @@ body {
 .cid-qU7SvfqkNh {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/drones-1698x892.jpg");
+  background-color: #313941;
 }
 .cid-qU7SvfqkNh .main {
   flex-direction: row-reverse;
@@ -3881,6 +3885,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
+  background: none;
 }
 .cid-qURGnECyy7 .navbar.opened {
   transition: all .3s;
@@ -4143,11 +4148,11 @@ body {
   background-image: url("../../../assets/images/drones-1698x892.jpg");
 }
 .cid-qURGnGSglS .mbr-overlay {
-  background: #fdce2d;
+  background: #232323;
 }
 .cid-qURGnGSglS .mbr-section-title {
   letter-spacing: -1px;
-  color: #232323;
+  color: #fdce2d;
   text-align: center;
 }
 .cid-qURGnGSglS .mbr-section-subtitle {
@@ -4160,16 +4165,16 @@ body {
   color: #313941;
 }
 .cid-qURGnGSglS .mbr-section-title SPAN {
-  color: #313941;
+  color: #ffffff;
 }
 .cid-qURGnGSglS .mbr-text,
 .cid-qURGnGSglS .mbr-section-btn {
   text-align: center;
 }
 .cid-qURGnHS6NQ {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/road2-1024x680.jpg");
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
 }
 .cid-qURGnHS6NQ .main {
   flex-direction: row-reverse;
@@ -4203,7 +4208,7 @@ body {
   }
 }
 .cid-qURGnHS6NQ .mbr-title {
-  color: #fdce2d;
+  color: #232323;
 }
 .cid-qURGnHS6NQ .mbr-text,
 .cid-qURGnHS6NQ .mbr-section-btn {
@@ -4252,10 +4257,7 @@ body {
 .cid-qURGnK07L7 {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #232323;
-}
-.cid-qURGnK07L7 .main {
-  flex-direction: row-reverse;
+  background-color: #ffffff;
 }
 .cid-qURGnK07L7 .row-element,
 .cid-qURGnK07L7 .image-element {
@@ -4286,12 +4288,12 @@ body {
   }
 }
 .cid-qURGnK07L7 .mbr-title {
-  color: #ffffff;
+  color: #232323;
   text-align: left;
 }
 .cid-qURGnK07L7 .mbr-text,
 .cid-qURGnK07L7 .mbr-section-btn {
-  color: #ffffff;
+  color: #767676;
   text-align: left;
 }
 .cid-qVjPU3fYP3 {
@@ -4342,7 +4344,7 @@ body {
 .cid-qURGnMJEOP {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qURGnMJEOP *:focus {
   outline: none;
@@ -4420,7 +4422,7 @@ body {
 .cid-qURGnO6lZh {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qURGnO6lZh .media-container-row {
   flex-wrap: wrap;
